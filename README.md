@@ -1,4 +1,4 @@
-# 🧬 Non-coding RNA Analysis
+# Non-coding RNA Analysis
 
 This repository contains scripts, data, and results for **non-coding RNA (ncRNA) analysis** as part of the M.Sc. Bioinformatics project.  
 
